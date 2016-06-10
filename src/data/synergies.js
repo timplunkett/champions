@@ -144,11 +144,11 @@ const synergies = [
 
     { fromId: 'hulkbuster', fromStars: 2, toId: 'hulk', effectId: 'critdamage', effectAmount: 15 },
     { fromId: 'hulkbuster', fromStars: 3, toId: 'hulk', effectId: 'critdamage', effectAmount: 20 },
-    { fromId: 'hulkbuster', fromStars: 3, toId: 'ironman', effectId: 'perfectblock', effectAmount: 5 },
-    { fromId: 'hulkbuster', fromStars: 3, toId: 'superiorironman', effectId: 'perfectblock', effectAmount: 5 },
+    { fromId: 'hulkbuster', fromStars: 3, toId: 'ironman', effectId: 'health', effectAmount: 5 },
+    { fromId: 'hulkbuster', fromStars: 3, toId: 'superiorironman', effectId: 'health', effectAmount: 5 },
     { fromId: 'hulkbuster', fromStars: 4, toId: 'hulk', effectId: 'critdamage', effectAmount: 25 },
-    { fromId: 'hulkbuster', fromStars: 4, toId: 'ironman', effectId: 'perfectblock', effectAmount: 6 },
-    { fromId: 'hulkbuster', fromStars: 4, toId: 'superiorironman', effectId: 'perfectblock', effectAmount: 6 },
+    { fromId: 'hulkbuster', fromStars: 4, toId: 'ironman', effectId: 'health', effectAmount: 6 },
+    { fromId: 'hulkbuster', fromStars: 4, toId: 'superiorironman', effectId: 'health', effectAmount: 6 },
 
     { fromId: 'rocket', fromStars: 2, toId: 'starlord', effectId: 'armor', effectAmount: 4 },
     { fromId: 'rocket', fromStars: 2, toId: 'gamora', effectId: 'perfectblock', effectAmount: 3 },
